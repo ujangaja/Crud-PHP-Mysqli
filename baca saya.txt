@@ -1,0 +1,12 @@
+/**********************************
+* Ujang Arisandi  	  			  *
+* url 	: bukakelas.id	      *
+* tw 	: @ujangaja		  		  * 
+* fb 	: /ujangarisandi		   		  *
+* <sebarkan walau sebaris kode /> *
+**********************************/
+
+import file latihan_oop.sql melalui phpmyadmin
+sesuaikan koneksi database pada file koneksi.php
+
+selamat mencoba :)
