@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>uku Telp</title>
+  <title>Buku Telp</title>
 </head>
 <body>
 <div class="judul">
