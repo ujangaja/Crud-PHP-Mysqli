@@ -1,2 +1,2 @@
 # Crud-PHP-Mysqli
-Basic PHP CCRUD dengan Mysqli
+Basic PHP CRUD dengan Mysqli
